@@ -8,8 +8,8 @@ entity twoOperand is
     Rsrc: In std_logic_vector (31 downto 0);
     Rdst: In std_logic_vector (31 downto 0);
     OPcode: In std_logic_vector(3 downto 0);
-    CarryIn : In std_logic;
     result : OUT std_logic_vector(31 downto 0);
+    flagEnable: out std_logic;
     CarryOut: Out std_logic;
     ZeroFlag: OUT std_logic;
     NegativeOut: OUT std_logic
@@ -91,6 +91,8 @@ else  ('0') when ((OPcode = "1000") and ((signed(tempRdst(31 downto 0))) <= 1))
 else  (cf) when  OPcode = "0000"
 else  (Result_internal(31)) ;
 
+flagEnable <= ('0') when (OPcode = "0000")
+else ('1');
 
 result <= Result_internal(31 downto 0);
 ZeroFlag <= zf;
