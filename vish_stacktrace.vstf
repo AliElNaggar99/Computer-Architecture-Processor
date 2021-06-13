@@ -1,0 +1,66 @@
+# Current time Sun Jun 13 14:43:05 2021
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 78f5c952. Traceback:
+# 0    0x78f5c952: 'TkSetWindowMenuBar + 0x59b2'
+# 1    0x78f5cbea: 'TkSetWindowMenuBar + 0x5c4a'
+# 2    0x7910653b: 'TclServiceIdle + 0x4b'
+# 3    0x00703c68: 'WlfContextItem::`vector deleting destructor' + 0x89c8'
+# 4    0x00525a56: 'EnumDispProc + 0x2fed6'
+# 5    0x00525b40: 'EnumDispProc + 0x2ffc0'
+# 6    0x79041fae: 'TclInvokeStringCommand + 0xbe'
+# 7    0x790439f1: 'TclNREvalObjv + 0x3e1'
+# 8    0x79043a49: 'TclNRRunCallbacks + 0x49'
+# 9    0x7904563c: 'Tcl_EvalObjEx + 0x2c'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Sun Jun 13 15:39:54 2021
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 78f5c952. Traceback:
+# 0    0x78f5c952: 'TkSetWindowMenuBar + 0x59b2'
+# 1    0x78f5cbea: 'TkSetWindowMenuBar + 0x5c4a'
+# 2    0x7910653b: 'TclServiceIdle + 0x4b'
+# 3    0x00703c68: 'WlfContextItem::`vector deleting destructor' + 0x89c8'
+# 4    0x00525a56: 'EnumDispProc + 0x2fed6'
+# 5    0x00525b40: 'EnumDispProc + 0x2ffc0'
+# 6    0x79041fae: 'TclInvokeStringCommand + 0xbe'
+# 7    0x790439f1: 'TclNREvalObjv + 0x3e1'
+# 8    0x79043a49: 'TclNRRunCallbacks + 0x49'
+# 9    0x7904563c: 'Tcl_EvalObjEx + 0x2c'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Sun Jun 13 15:41:02 2021
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 78f5c952. Traceback:
+# 0    0x78f5c952: 'TkSetWindowMenuBar + 0x59b2'
+# 1    0x78f5cbea: 'TkSetWindowMenuBar + 0x5c4a'
+# 2    0x7910653b: 'TclServiceIdle + 0x4b'
+# 3    0x00703c68: 'WlfContextItem::`vector deleting destructor' + 0x89c8'
+# 4    0x00525a56: 'EnumDispProc + 0x2fed6'
+# 5    0x00525b40: 'EnumDispProc + 0x2ffc0'
+# 6    0x79041fae: 'TclInvokeStringCommand + 0xbe'
+# 7    0x790439f1: 'TclNREvalObjv + 0x3e1'
+# 8    0x79043a49: 'TclNRRunCallbacks + 0x49'
+# 9    0x7904563c: 'Tcl_EvalObjEx + 0x2c'
+StackWalk failed 299
+# End of Stack Trace
+

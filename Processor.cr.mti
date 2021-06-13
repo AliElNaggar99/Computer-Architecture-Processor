@@ -1,0 +1,202 @@
+D:/Programes/intelFPGA_lite/Archeciture/Project/Register3Bits.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/Register3Bits.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Reg_3
+-- Compiling architecture a_Reg_3 of Reg_3
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/TristateBuffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/TristateBuffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TristateBuffer
+-- Compiling architecture a_TristateBuffer of TristateBuffer
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/InstructionMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/InstructionMemory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity InstructionMemory
+-- Compiling architecture arch_InstructionMemory of InstructionMemory
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterFile.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterFile.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RegisterFile
+-- Compiling architecture a_RegisterFile of RegisterFile
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/MUX2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/MUX2x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MUX2x1
+-- Compiling architecture my_MUX2x1 of MUX2x1
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/Add_to_PC.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/Add_to_PC.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Add_to_PC
+-- Compiling architecture my_Add_to_PC of Add_to_PC
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Programes\intelFPGA_lite\Archeciture\Project\ID_EX_Reg.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ID_EX_Reg
+-- Compiling architecture a_ID_EX_Reg of ID_EX_Reg
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MEM_WE_Reg
+-- Compiling architecture a_MEM_WE_Reg of MEM_WE_Reg
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/FlagRegister.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/FlagRegister.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Flag_Register
+-- Compiling architecture a_Flag_Register of Flag_Register
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/MUX4x1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/MUX4x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MUX4x1
+-- Compiling architecture my_MUX4x1 of MUX4x1
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity EX_MEM_Reg
+-- Compiling architecture a_EX_MEM_Reg of EX_MEM_Reg
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity IF_ID_Reg
+-- Compiling architecture a_IF_ID_Reg of IF_ID_Reg
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/ControlUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/ControlUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ControlUnit
+-- Compiling architecture arch of ControlUnit
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/Register32Bit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/Register32Bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Reg_32
+-- Compiling architecture a_Reg_32 of Reg_32
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/ALU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture arch of ALU
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/GeneralRegister.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/GeneralRegister.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nDFF
+-- Compiling architecture a_my_nDFF of my_nDFF
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/ReadandWriteMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/ReadandWriteMemory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DataMemory
+-- Compiling architecture arch_DataMemory of DataMemory
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Stage.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Programes\intelFPGA_lite\Archeciture\Project\ID_EX_Stage.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ID_EX_Stage
+-- Compiling architecture a_ID_EX_Stage of ID_EX_Stage
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Stage.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Stage.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MEM_WE_Stage
+-- Compiling architecture a_MEM_WE_Stage of MEM_WE_Stage
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterAdressDecoder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterAdressDecoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Decoder
+-- Compiling architecture a_Decoder of Decoder
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Stage.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Stage.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity EX_MEM_Stage
+-- Compiling architecture a_EX_MEM_Stage of EX_MEM_Stage
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Stage.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Stage.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity IF_ID_Stage
+-- Compiling architecture a_IF_ID_Stage of IF_ID_Stage
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/PC_Register.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/PC_Register.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity PC_Register
+-- Compiling architecture my_PC of PC_Register
+
+} {} {}} D:/Programes/intelFPGA_lite/Archeciture/Project/processor.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Programes/intelFPGA_lite/Archeciture/Project/processor.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Processor
+-- Compiling architecture my_Processor of Processor
+
+} {} {}}
