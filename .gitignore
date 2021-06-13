@@ -1,0 +1,15 @@
+work/_vmake
+work/_lib1_5.qtl
+work/_lib1_5.qpg
+work/_lib1_5.qdb
+work/_lib.qdb
+work/_info
+ALU/twoOperand.vhd.bak
+ALU/one_two_operands.vhd
+ALU/integratedALU.vhdl
+ALU/Adder_32Bit.vhd
+ALU/Adder_1bit.vhd
+vsim.wlf
+vish_stacktrace.vstf
+processor.mpf
+processor.cr.mti
