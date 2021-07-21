@@ -12,7 +12,7 @@ process(clk,rst)
 begin
     if(rst = '1') then 
     q <= (others => '0');
-    elsif falling_edge(clk) then
+    elsif rising_edge(clk) then
         if(enable ='1') then
             q<=d;
         end if;

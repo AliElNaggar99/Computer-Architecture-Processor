@@ -49,8 +49,7 @@ sim:/processor/Reg_File/qRegister4 \
 sim:/processor/Reg_File/qRegister5 \
 sim:/processor/Reg_File/qRegister6 \
 sim:/processor/Reg_File/qRegister7
-mem load -filltype value -filldata 0000 -fillradix hexadecimal /processor/Instr/ram(0)
-mem load -filltype value -filldata 000A -fillradix hexadecimal /processor/Instr/ram(1)
+mem load -filltype value -filldata 000A -fillradix hexadecimal /processor/Instr/ram(0)
 mem load -filltype value -filldata 3900 -fillradix hexadecimal /processor/Instr/ram(10)
 mem load -filltype value -filldata 3A00 -fillradix hexadecimal /processor/Instr/ram(11)
 mem load -filltype value -filldata 3B00 -fillradix hexadecimal /processor/Instr/ram(12)
@@ -82,3 +81,15 @@ mem load -filltype value -filldata FFFF -fillradix hexadecimal /processor/Instr/
 mem load -filltype value -filldata 0000 -fillradix hexadecimal /processor/Instr/ram(34)
 mem load -filltype value -filldata 0000 -fillradix hexadecimal /processor/Instr/ram(35)
 mem load -filltype value -filldata 4A20 -fillradix hexadecimal /processor/Instr/ram(36)
+force -freeze sim:/processor/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/processor/rst 1 0
+run
+force -freeze sim:/processor/rst 0 0
+force -freeze sim:/processor/INPort 00000005 0
+run
+force -freeze sim:/processor/INPort 00000019 0
+run
+force -freeze sim:/processor/INPort FFFFFFFF 0
+run
+force -freeze sim:/processor/INPort FFFFF320 0
+run

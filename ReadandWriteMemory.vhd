@@ -12,13 +12,13 @@ Entity DataMemory is
 End Entity DataMemory;
 
 Architecture arch_DataMemory of DataMemory IS
-  type ram_data is array (0 to 1048576) of std_logic_vector(15 downto 0) ;   
+  type ram_data is array (0 to 1048575) of std_logic_vector(15 downto 0) ;   
   signal dataMemory       : ram_data;
   BEGIN
       
        process(clk,address,WriteEnable,datain) is
 	     begin
-	          if rising_edge(clk) then
+	          if falling_edge(clk) then
 		           if (WriteEnable = '1') then
 	              dataMemory(to_integer(unsigned(address(19 downto 0)))) <= datain (15 downto 0);
 	              dataMemory(to_integer(unsigned(address(19 downto 0)) + 1)) <= datain (31 downto 16);

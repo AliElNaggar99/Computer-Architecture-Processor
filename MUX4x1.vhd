@@ -20,7 +20,7 @@ begin
  out1 <= in0 when sel = "00" 
         else in1 when sel = "01"
         else in2 when sel = "10"
-        else in3;
+        else in3 when sel = "11";
 
 end my_MUX4x1; 
 

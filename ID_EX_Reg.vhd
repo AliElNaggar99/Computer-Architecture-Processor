@@ -3,7 +3,7 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity ID_EX_Reg is
-    port(clk,rst,enable:in std_logic; d: in std_logic_vector (170 downto 0); q: out std_logic_vector (170 downto 0));
+    port(clk,rst,enable:in std_logic; d: in std_logic_vector (188 downto 0); q: out std_logic_vector (188 downto 0));
 end ID_EX_Reg;
 
 architecture a_ID_EX_Reg of ID_EX_Reg is

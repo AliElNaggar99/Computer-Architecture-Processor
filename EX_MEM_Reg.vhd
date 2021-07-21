@@ -3,7 +3,7 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity EX_MEM_Reg is
-    port(clk,rst,enable:in std_logic; d: in std_logic_vector (99 downto 0); q: out std_logic_vector (99 downto 0));
+    port(clk,rst,enable:in std_logic; d: in std_logic_vector (108 downto 0); q: out std_logic_vector (108 downto 0));
 end EX_MEM_Reg;
 
 architecture a_EX_MEM_Reg of EX_MEM_Reg is
