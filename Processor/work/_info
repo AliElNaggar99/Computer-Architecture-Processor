@@ -1,0 +1,1418 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Programes/intelFPGA_lite/Archeciture/LabExam
+Eadd_to_pc
+Z0 w1623436143
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 775
+Z4 dD:/Programes/intelFPGA_lite/Archeciture/Project
+Z5 8D:/Programes/intelFPGA_lite/Archeciture/Project/Add_to_PC.vhd
+Z6 FD:/Programes/intelFPGA_lite/Archeciture/Project/Add_to_PC.vhd
+l0
+L6 1
+V6LMN@mZHjQiz[8A[>_6l51
+!s100 ?iRL6CQoQDNOoDBJ@Z@4z0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1623685487
+!i10b 1
+Z9 !s108 1623685487.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/Add_to_PC.vhd|
+Z11 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/Add_to_PC.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Amy_add_to_pc
+R1
+R2
+R3
+DEx4 work 9 add_to_pc 0 22 6LMN@mZHjQiz[8A[>_6l51
+!i122 775
+l19
+L14 13
+VLGzPez?<JJ[49MA`O`Y:_0
+!s100 _GfAL3jhF<`MhD:Q6^T7z0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu
+Z14 w1623687411
+R1
+R2
+R3
+!i122 804
+R4
+Z15 8D:\Programes\intelFPGA_lite\Archeciture\Project\ALU.vhd
+Z16 FD:\Programes\intelFPGA_lite\Archeciture\Project\ALU.vhd
+l0
+L6 1
+VU@j[nDJzV_aJ:0j1m<d4D3
+!s100 9_2=dK]I_]j7Jbl>FHCm93
+R7
+32
+Z17 !s110 1623687591
+!i10b 1
+Z18 !s108 1623687590.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\ALU.vhd|
+Z20 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\ALU.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 U@j[nDJzV_aJ:0j1m<d4D3
+!i122 804
+l49
+L20 91
+VfeC`3_i4i<]zoP`d;b9g[3
+!s100 DO=lB_;EG2_JG<1M3mU1o1
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Econtrolunit
+Z21 w1623770528
+R1
+R2
+R3
+!i122 850
+R4
+Z22 8D:\Programes\intelFPGA_lite\Archeciture\Project\ControlUnit.vhd
+Z23 FD:\Programes\intelFPGA_lite\Archeciture\Project\ControlUnit.vhd
+l0
+L7 1
+Vk]E`bHZJackeob[S9Q:7e1
+!s100 I9gEELjQN6z[V0QC;THgW1
+R7
+32
+Z24 !s110 1623770549
+!i10b 1
+Z25 !s108 1623770548.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\ControlUnit.vhd|
+Z27 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\ControlUnit.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 11 controlunit 0 22 k]E`bHZJackeob[S9Q:7e1
+!i122 850
+l48
+L44 100
+VMYKcAM0MbUAYLYjU<Aak<2
+!s100 VOa1gNf0BHSMdL6z;LFP03
+R7
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R12
+R13
+Ecu_jump
+Z28 w1623766257
+R1
+R2
+R3
+!i122 844
+R4
+Z29 8D:/Programes/intelFPGA_lite/Archeciture/Project/CU_Jump.vhd
+Z30 FD:/Programes/intelFPGA_lite/Archeciture/Project/CU_Jump.vhd
+l0
+L5 1
+VYDUfBIAKjFdbB09mfUPQ33
+!s100 eF12]H?9?:LW4NZM<dR<G1
+R7
+32
+Z31 !s110 1623766262
+!i10b 1
+Z32 !s108 1623766262.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/CU_Jump.vhd|
+Z34 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/CU_Jump.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 7 cu_jump 0 22 YDUfBIAKjFdbB09mfUPQ33
+!i122 844
+l26
+L22 31
+VA?kE`27m[bIcai[]_XhHd3
+!s100 BcbfCRO;?o9i^m<N:P[F92
+R7
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R12
+R13
+Edatamemory
+Z35 w1623672900
+R1
+R2
+R3
+!i122 783
+R4
+Z36 8D:/Programes/intelFPGA_lite/Archeciture/Project/ReadandWriteMemory.vhd
+Z37 FD:/Programes/intelFPGA_lite/Archeciture/Project/ReadandWriteMemory.vhd
+l0
+L5 1
+Va_VRabnnaQV6[kg0mX=[_1
+!s100 TdiHbN1A3:2O]X[^Iocek3
+R7
+32
+Z38 !s110 1623685490
+!i10b 1
+Z39 !s108 1623685490.000000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/ReadandWriteMemory.vhd|
+Z41 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/ReadandWriteMemory.vhd|
+!i113 1
+R12
+R13
+Aarch_datamemory
+R1
+R2
+R3
+DEx4 work 10 datamemory 0 22 a_VRabnnaQV6[kg0mX=[_1
+!i122 783
+l17
+L14 17
+VLLA`W2W2bjUghYZ<B=ASI0
+!s100 cP^5U4S101z6iL`IC8?ol3
+R7
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R12
+R13
+Edecoder
+Z42 w1623453943
+R2
+R3
+!i122 784
+R4
+Z43 8D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterAdressDecoder.vhd
+Z44 FD:/Programes/intelFPGA_lite/Archeciture/Project/RegisterAdressDecoder.vhd
+l0
+L3 1
+VC=[YmD[HSNOVb5lZ]KJFT1
+!s100 PhSW4<2T;8jNKQ@jj3<8@1
+R7
+32
+R38
+!i10b 1
+R39
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterAdressDecoder.vhd|
+Z46 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterAdressDecoder.vhd|
+!i113 1
+R12
+R13
+Aa_decoder
+R2
+R3
+DEx4 work 7 decoder 0 22 C=[YmD[HSNOVb5lZ]KJFT1
+!i122 784
+l14
+L12 14
+VVOW[78aV6DPWIZN=^IEiS1
+!s100 kG^M8:Z4kMVmAEL`H5?Vo1
+R7
+32
+R38
+!i10b 1
+R39
+R45
+R46
+!i113 1
+R12
+R13
+Eex_mem_reg
+Z47 w1623761341
+R2
+R3
+!i122 839
+R4
+Z48 8D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Reg.vhd
+Z49 FD:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Reg.vhd
+l0
+L5 1
+V:D0[mIRd]V]iAiDLBYfTj0
+!s100 C`:>eBd[97KL17JjeNfjU1
+R7
+32
+Z50 !s110 1623761428
+!i10b 1
+Z51 !s108 1623761428.000000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Reg.vhd|
+Z53 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Reg.vhd|
+!i113 1
+R12
+R13
+Aa_ex_mem_reg
+R2
+R3
+DEx4 work 10 ex_mem_reg 0 22 :D0[mIRd]V]iAiDLBYfTj0
+!i122 839
+l10
+Z54 L9 13
+VG]9oSNW=7h@;8ha8@^Cjc0
+!s100 mUCg8emSbX:6?VIQQ5S@;0
+R7
+32
+R50
+!i10b 1
+R51
+R52
+R53
+!i113 1
+R12
+R13
+Eex_mem_stage
+Z55 w1623761394
+R2
+R3
+!i122 840
+R4
+Z56 8D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Stage.vhd
+Z57 FD:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Stage.vhd
+l0
+L5 1
+VJSX[YhTW70`NWT6HzfnL53
+!s100 ?;o[`QEQ<0SL?DSl@Ga^z0
+R7
+32
+Z58 !s110 1623761430
+!i10b 1
+Z59 !s108 1623761430.000000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Stage.vhd|
+Z61 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/EX_MEM_Stage.vhd|
+!i113 1
+R12
+R13
+Aa_ex_mem_stage
+R2
+R3
+DEx4 work 12 ex_mem_stage 0 22 JSX[YhTW70`NWT6HzfnL53
+!i122 840
+l54
+L45 34
+VH0Jo;@3Rdl5PfFeSH0WV92
+!s100 :^QSFk8o4gYU;Fd_mzPLB3
+R7
+32
+R58
+!i10b 1
+R59
+R60
+R61
+!i113 1
+R12
+R13
+Eflag_register
+Z62 w1623526152
+R2
+R3
+!i122 791
+R4
+Z63 8D:/Programes/intelFPGA_lite/Archeciture/Project/FlagRegister.vhd
+Z64 FD:/Programes/intelFPGA_lite/Archeciture/Project/FlagRegister.vhd
+l0
+L5 1
+Vc6RB[<:@6]Jk@XS`X>C`@0
+!s100 EVD4j_90eDUVQRR_a^1300
+R7
+32
+Z65 !s110 1623685492
+!i10b 1
+Z66 !s108 1623685492.000000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/FlagRegister.vhd|
+Z68 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/FlagRegister.vhd|
+!i113 1
+R12
+R13
+Aa_flag_register
+R2
+R3
+DEx4 work 13 flag_register 0 22 c6RB[<:@6]Jk@XS`X>C`@0
+!i122 791
+l23
+L16 16
+ViMX>Jm0M?jAdP=672MeQb0
+!s100 hCUN2El^KNJ=2nB4QDD4o3
+R7
+32
+R65
+!i10b 1
+R66
+R67
+R68
+!i113 1
+R12
+R13
+Efu
+Z69 w1623698308
+R1
+R2
+R3
+!i122 809
+R4
+Z70 8D:\Programes\intelFPGA_lite\Archeciture\Project\FU.vhd
+Z71 FD:\Programes\intelFPGA_lite\Archeciture\Project\FU.vhd
+l0
+L6 1
+VgMm[b<zcOS:=>R1ZXzHld1
+!s100 Lo[h3E6:@zeoR8gRj0LFa2
+R7
+32
+Z72 !s110 1623698318
+!i10b 1
+Z73 !s108 1623698318.000000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\FU.vhd|
+Z75 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\FU.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 2 fu 0 22 gMm[b<zcOS:=>R1ZXzHld1
+!i122 809
+l30
+L26 20
+V_?Z<=G2XROam:Ha23OUk>0
+!s100 Gf^`^HMo?<U^][PPJ[WAP3
+R7
+32
+R72
+!i10b 1
+R73
+R74
+R75
+!i113 1
+R12
+R13
+Ehdu
+Z76 w1623760920
+R1
+R2
+R3
+!i122 835
+R4
+Z77 8D:/Programes/intelFPGA_lite/Archeciture/Project/HDU.vhd
+Z78 FD:/Programes/intelFPGA_lite/Archeciture/Project/HDU.vhd
+l0
+L5 1
+VBn>FU@0fT`PiNHZl0cldL3
+!s100 Vn?@3fd]j6X4ZX@>@`1Pf0
+R7
+32
+Z79 !s110 1623760924
+!i10b 1
+Z80 !s108 1623760924.000000
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/HDU.vhd|
+Z82 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/HDU.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 3 hdu 0 22 Bn>FU@0fT`PiNHZl0cldL3
+!i122 835
+l27
+L24 34
+V50Tm^>@?IW23?]CXRAm^E1
+!s100 4b]c0K2S1_O4ocQ5O]:eA2
+R7
+32
+R79
+!i10b 1
+R80
+R81
+R82
+!i113 1
+R12
+R13
+Eid_ex_reg
+Z83 w1623761177
+R2
+R3
+!i122 836
+R4
+Z84 8D:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Reg.vhd
+Z85 FD:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Reg.vhd
+l0
+L5 1
+V`51AIG@[CgTT:ATh3P4O21
+!s100 `PnVWET=Z2EjAVBIW_fSP1
+R7
+32
+Z86 !s110 1623761271
+!i10b 1
+Z87 !s108 1623761270.000000
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Reg.vhd|
+Z89 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Reg.vhd|
+!i113 1
+R12
+R13
+Aa_id_ex_reg
+R2
+R3
+DEx4 work 9 id_ex_reg 0 22 `51AIG@[CgTT:ATh3P4O21
+!i122 836
+l10
+R54
+VH_?BzmEPUhA9m_IUPl6L32
+!s100 86Zi3jBfg7S?z6`mCR3W:2
+R7
+32
+R86
+!i10b 1
+R87
+R88
+R89
+!i113 1
+R12
+R13
+Eid_ex_stage
+Z90 w1623761266
+R2
+R3
+!i122 837
+R4
+Z91 8D:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Stage.vhd
+Z92 FD:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Stage.vhd
+l0
+L5 1
+Vhn:l^BSBc?3;NFIzl8[mU2
+!s100 M>EjUA9M_oPiOk6nSKCXS0
+R7
+32
+Z93 !s110 1623761273
+!i10b 1
+Z94 !s108 1623761273.000000
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Stage.vhd|
+Z96 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/ID_EX_Stage.vhd|
+!i113 1
+R12
+R13
+Aa_id_ex_stage
+R2
+R3
+DEx4 work 11 id_ex_stage 0 22 hn:l^BSBc?3;NFIzl8[mU2
+!i122 837
+l77
+L68 45
+Vfgf4NA_L5QV>IKoU;h[R[1
+!s100 ]Fz4OS3NY7@V[1XmVb1E62
+R7
+32
+R93
+!i10b 1
+R94
+R95
+R96
+!i113 1
+R12
+R13
+Eif_id_reg
+Z97 w1623577417
+R2
+R3
+!i122 779
+R4
+Z98 8D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Reg.vhd
+Z99 FD:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Reg.vhd
+l0
+L5 1
+VMMX6]CTbZNfhZH_G[d@YC1
+!s100 TCE?Z=n8I113;3Km;XCcT1
+R7
+32
+Z100 !s110 1623685489
+!i10b 1
+Z101 !s108 1623685488.000000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Reg.vhd|
+Z103 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Reg.vhd|
+!i113 1
+R12
+R13
+Aa_if_id_reg
+R2
+R3
+DEx4 work 9 if_id_reg 0 22 MMX6]CTbZNfhZH_G[d@YC1
+!i122 779
+l10
+R54
+V=??ZoL8e>Cl<T[81R9c9;3
+!s100 [Ao8BnSO=_Yha`??SHa521
+R7
+32
+R100
+!i10b 1
+R101
+R102
+R103
+!i113 1
+R12
+R13
+Eif_id_stage
+Z104 w1623508204
+R2
+R3
+!i122 780
+R4
+Z105 8D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Stage.vhd
+Z106 FD:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Stage.vhd
+l0
+L5 1
+VzXH[DG4Lii0>QzX1_7jKj1
+!s100 UBjbzVhmOEMiiAH^U`8X90
+R7
+32
+R100
+!i10b 1
+Z107 !s108 1623685489.000000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Stage.vhd|
+Z109 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/IF_ID_Stage.vhd|
+!i113 1
+R12
+R13
+Aa_if_id_stage
+R2
+R3
+DEx4 work 11 if_id_stage 0 22 zXH[DG4Lii0>QzX1_7jKj1
+!i122 780
+l25
+L16 19
+VIdnFNIzlmh=fT5B3EC^Sf2
+!s100 c_Xfj=n7k6^8gAVzGU>NW1
+R7
+32
+R100
+!i10b 1
+R107
+R108
+R109
+!i113 1
+R12
+R13
+Einstructionmemory
+Z110 w1623668851
+R1
+R2
+R3
+!i122 782
+R4
+Z111 8D:/Programes/intelFPGA_lite/Archeciture/Project/InstructionMemory.vhd
+Z112 FD:/Programes/intelFPGA_lite/Archeciture/Project/InstructionMemory.vhd
+l0
+L6 1
+VdX@JO`k0DOYKcJN4VAAbm2
+!s100 M0A4XT`=mP;`^8mMEDIbg2
+R7
+32
+R38
+!i10b 1
+R107
+Z113 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/InstructionMemory.vhd|
+Z114 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/InstructionMemory.vhd|
+!i113 1
+R12
+R13
+Aarch_instructionmemory
+R1
+R2
+R3
+DEx4 work 17 instructionmemory 0 22 dX@JO`k0DOYKcJN4VAAbm2
+!i122 782
+l17
+L13 9
+V`i18M3C8UH6?z>Z9mh>B61
+!s100 LeNMILEiIzI5M``U<hHHl0
+R7
+32
+R38
+!i10b 1
+R107
+R113
+R114
+!i113 1
+R12
+R13
+Emem_we_reg
+Z115 w1623667533
+R2
+R3
+!i122 795
+R4
+Z116 8D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Reg.vhd
+Z117 FD:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Reg.vhd
+l0
+L5 1
+Vbo`5GP9EjjC:MUUMo77IQ2
+!s100 4_lGVbJWI:a8gSa5ngYP90
+R7
+32
+Z118 !s110 1623685493
+!i10b 1
+Z119 !s108 1623685493.000000
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Reg.vhd|
+Z121 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Reg.vhd|
+!i113 1
+R12
+R13
+Aa_mem_we_reg
+R2
+R3
+DEx4 work 10 mem_we_reg 0 22 bo`5GP9EjjC:MUUMo77IQ2
+!i122 795
+l10
+R54
+V1[i;VR`cf_nJhLJY7WR]01
+!s100 DZ_>WST9c?CUH6VLd^kN`0
+R7
+32
+R118
+!i10b 1
+R119
+R120
+R121
+!i113 1
+R12
+R13
+Emem_we_stage
+Z122 w1623667900
+R2
+R3
+!i122 796
+R4
+Z123 8D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Stage.vhd
+Z124 FD:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Stage.vhd
+l0
+L5 1
+Vm3fU<9W@GHOD]CVNP>RN:2
+!s100 McN50ED9nPi]?V8iN4e603
+R7
+32
+Z125 !s110 1623685494
+!i10b 1
+Z126 !s108 1623685494.000000
+Z127 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Stage.vhd|
+Z128 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/MEM_WE_Stage.vhd|
+!i113 1
+R12
+R13
+Aa_mem_we_stage
+R2
+R3
+DEx4 work 12 mem_we_stage 0 22 m3fU<9W@GHOD]CVNP>RN:2
+!i122 796
+l31
+L22 22
+V5?5AYaz5GORSh`l87M]OA0
+!s100 lF;m]FJ]XMB]ZoXLjcem?3
+R7
+32
+R125
+!i10b 1
+R126
+R127
+R128
+!i113 1
+R12
+R13
+Emux2
+Z129 w1623440189
+R1
+R2
+R3
+!i122 44
+R4
+Z130 8D:\Programes\intelFPGA_lite\Archeciture\Project\MUX2x1.vhd
+Z131 FD:\Programes\intelFPGA_lite\Archeciture\Project\MUX2x1.vhd
+l0
+L6 1
+VHJh_kF11:PKMCV4WfL6^_2
+!s100 g7aSThXC7I_f1nQVMZoAo3
+R7
+32
+Z132 !s110 1623440205
+!i10b 1
+Z133 !s108 1623440205.000000
+Z134 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\MUX2x1.vhd|
+Z135 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\MUX2x1.vhd|
+!i113 1
+R12
+R13
+Amy_mux2
+R1
+R2
+R3
+DEx4 work 4 mux2 0 22 HJh_kF11:PKMCV4WfL6^_2
+!i122 44
+l16
+Z136 L15 6
+Vj6WB2;l:Yf2HU3MJBimn=0
+!s100 0_;45DDb@AOJ8CCXb^n8l2
+R7
+32
+R132
+!i10b 1
+R133
+R134
+R135
+!i113 1
+R12
+R13
+Emux2x1
+Z137 w1623441520
+R1
+R2
+R3
+!i122 776
+R4
+R130
+R131
+l0
+L6 1
+Vlg?6RYKcaElBhOECaf5HH0
+!s100 bzb^HdP^N[@j81[zkZ?z33
+R7
+32
+Z138 !s110 1623685488
+!i10b 1
+R9
+R134
+R135
+!i113 1
+R12
+R13
+Amy_mux2x1
+R1
+R2
+R3
+DEx4 work 6 mux2x1 0 22 lg?6RYKcaElBhOECaf5HH0
+!i122 776
+l16
+R136
+V><mS`9Km:hPgDnM;hWM1Z1
+!s100 m]4i;hJ:_9B_AJ[Z1o>IF2
+R7
+32
+R138
+!i10b 1
+R9
+R134
+R135
+!i113 1
+R12
+R13
+Emux2x1_1bit
+Z139 w1623766841
+R1
+R2
+R3
+!i122 846
+R4
+Z140 8D:\Programes\intelFPGA_lite\Archeciture\Project\MUX2x1_1bit.vhd
+Z141 FD:\Programes\intelFPGA_lite\Archeciture\Project\MUX2x1_1bit.vhd
+l0
+L6 1
+Vl4SXmh_g;6Ujn=b?Flf0K2
+!s100 9cdU;14]ljz@fUVCMjL8b1
+R7
+32
+Z142 !s110 1623766849
+!i10b 1
+Z143 !s108 1623766849.000000
+Z144 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\MUX2x1_1bit.vhd|
+Z145 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\MUX2x1_1bit.vhd|
+!i113 1
+R12
+R13
+Amy_mux2x1_1bit
+R1
+R2
+R3
+DEx4 work 11 mux2x1_1bit 0 22 l4SXmh_g;6Ujn=b?Flf0K2
+!i122 846
+l16
+R136
+VkE]l:MeWEbGGRU><;>99i0
+!s100 QjA2_AjAhRKgmiF_Ba>;J2
+R7
+32
+R142
+!i10b 1
+R143
+R144
+R145
+!i113 1
+R12
+R13
+Emux4x1
+Z146 w1623683520
+R1
+R2
+R3
+!i122 777
+R4
+Z147 8D:\Programes\intelFPGA_lite\Archeciture\Project\MUX4x1.vhd
+Z148 FD:\Programes\intelFPGA_lite\Archeciture\Project\MUX4x1.vhd
+l0
+L6 1
+ViFoi2P@<Ec:5zY<V;ocD91
+!s100 nGE2KBGDi=>CRH1cN:dSd3
+R7
+32
+R138
+!i10b 1
+R101
+Z149 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\MUX4x1.vhd|
+Z150 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\MUX4x1.vhd|
+!i113 1
+R12
+R13
+Amy_mux4x1
+R1
+R2
+R3
+DEx4 work 6 mux4x1 0 22 iFoi2P@<Ec:5zY<V;ocD91
+!i122 777
+l18
+L17 9
+V8XfJEfLSMNXAd`8T;95]D3
+!s100 S3[]C4hCi0WDXHI9hY30b2
+R7
+32
+R138
+!i10b 1
+R101
+R149
+R150
+!i113 1
+R12
+R13
+Emy_dff
+Z151 w1617899788
+R2
+R3
+!i122 77
+R4
+Z152 8D:\Programes\intelFPGA_lite\Archeciture\Project\Register1Bit.vhd
+Z153 FD:\Programes\intelFPGA_lite\Archeciture\Project\Register1Bit.vhd
+l0
+L4 1
+V]@FZ7KIElP_Q04hcMi3JK2
+!s100 P4j4REdZZ386ibELXzWX`0
+R7
+32
+Z154 !s110 1623441077
+!i10b 1
+Z155 !s108 1623441077.000000
+Z156 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\Register1Bit.vhd|
+Z157 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\Register1Bit.vhd|
+!i113 1
+R12
+R13
+Aa_my_dff
+R2
+R3
+DEx4 work 6 my_dff 0 22 ]@FZ7KIElP_Q04hcMi3JK2
+!i122 77
+l9
+L8 13
+VF779G9DEd[UTBBCYnQf:43
+!s100 11B_STod^mdz7T656HgUK0
+R7
+32
+R154
+!i10b 1
+R155
+R156
+R157
+!i113 1
+R12
+R13
+Emy_ndff
+Z158 w1623497446
+R2
+R3
+!i122 781
+R4
+Z159 8D:/Programes/intelFPGA_lite/Archeciture/Project/GeneralRegister.vhd
+Z160 FD:/Programes/intelFPGA_lite/Archeciture/Project/GeneralRegister.vhd
+l0
+L3 1
+Vg2Tke6V=I^G8]Y1L[hF>b3
+!s100 UFGYmjED55F`iT>4NA5Yi3
+R7
+32
+R100
+!i10b 1
+R107
+Z161 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/GeneralRegister.vhd|
+Z162 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/GeneralRegister.vhd|
+!i113 1
+R12
+R13
+Aa_my_ndff
+R2
+R3
+DEx4 work 7 my_ndff 0 22 g2Tke6V=I^G8]Y1L[hF>b3
+!i122 781
+l15
+L12 18
+VfWRT1g6Vm?k<gW1jXN=1e1
+!s100 Wf`@Iz@7TQ2ORjYHm1ne93
+R7
+32
+R100
+!i10b 1
+R107
+R161
+R162
+!i113 1
+R12
+R13
+Ab_my_ndff
+R2
+R3
+DEx4 work 7 my_ndff 0 22 bX>]40K7YCO;54Dfg@kaG0
+!i122 76
+l32
+L28 9
+V`2XO`6U0fOBneWLI^P1Ek1
+!s100 <V]CDX6hWb8l?<<>J`YKz3
+R7
+32
+R154
+!i10b 1
+R155
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\nBitRegister.vhd|
+!s107 D:\Programes\intelFPGA_lite\Archeciture\Project\nBitRegister.vhd|
+!i113 1
+R12
+R13
+FD:\Programes\intelFPGA_lite\Archeciture\Project\nBitRegister.vhd
+w1623433473
+8D:\Programes\intelFPGA_lite\Archeciture\Project\nBitRegister.vhd
+Epc_register
+Z163 w1623577924
+R1
+R2
+R3
+!i122 774
+R4
+Z164 8D:/Programes/intelFPGA_lite/Archeciture/Project/PC_Register.vhd
+Z165 FD:/Programes/intelFPGA_lite/Archeciture/Project/PC_Register.vhd
+l0
+L6 1
+VmHdXQ=Xze`IBzFX=ef<m`2
+!s100 mNiJO[2:ncCFM<D64X@`N1
+R7
+32
+R8
+!i10b 1
+R9
+Z166 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/PC_Register.vhd|
+Z167 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/PC_Register.vhd|
+!i113 1
+R12
+R13
+Amy_pc
+R1
+R2
+R3
+DEx4 work 11 pc_register 0 22 mHdXQ=Xze`IBzFX=ef<m`2
+!i122 774
+l25
+L15 20
+V;51F0]GZlji?O<lC<E00R2
+!s100 ??okRflNB^HI7@V1@A?_L3
+R7
+32
+R8
+!i10b 1
+R9
+R166
+R167
+!i113 1
+R12
+R13
+Eprocessor
+Z168 w1623771726
+R1
+R2
+R3
+!i122 851
+R4
+Z169 8D:/Programes/intelFPGA_lite/Archeciture/Project/processor.vhd
+Z170 FD:/Programes/intelFPGA_lite/Archeciture/Project/processor.vhd
+l0
+L6 1
+VG<WAYW2Q>>24VK4zZ0hEl2
+!s100 EgPQ1od>ZDz9Hm9ki`VH21
+R7
+32
+Z171 !s110 1623773691
+!i10b 1
+Z172 !s108 1623773691.000000
+Z173 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/processor.vhd|
+Z174 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/processor.vhd|
+!i113 1
+R12
+R13
+Amy_processor
+R1
+R2
+R3
+Z175 DEx4 work 9 processor 0 22 G<WAYW2Q>>24VK4zZ0hEl2
+!i122 851
+l522
+L15 643
+V_M1c:Zc1o`7zkM1c3>IRF3
+!s100 `A:b07C5H1K932W7_55E>2
+R7
+32
+R171
+!i10b 1
+R172
+R173
+R174
+!i113 1
+R12
+R13
+Ereg_3
+Z176 w1623767473
+R2
+R3
+!i122 848
+R4
+Z177 8D:\Programes\intelFPGA_lite\Archeciture\Project\Register3Bits.vhd
+Z178 FD:\Programes\intelFPGA_lite\Archeciture\Project\Register3Bits.vhd
+l0
+L5 1
+VIUOS;5[4I;U`0]gXU;GQZ0
+!s100 ^DKZbd^W_l1SAR__10n[W1
+R7
+32
+Z179 !s110 1623767478
+!i10b 1
+Z180 !s108 1623767478.000000
+Z181 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\Register3Bits.vhd|
+Z182 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\Register3Bits.vhd|
+!i113 1
+R12
+R13
+Aa_reg_3
+R2
+R3
+DEx4 work 5 reg_3 0 22 IUOS;5[4I;U`0]gXU;GQZ0
+!i122 848
+l10
+R54
+VR6`DDbL26_5;_C2M@UazL1
+!s100 PJG2ie@fgC_EG4DgX3eek0
+R7
+32
+R179
+!i10b 1
+R180
+R181
+R182
+!i113 1
+R12
+R13
+Ereg_32
+Z183 w1623577422
+R2
+R3
+!i122 778
+R4
+Z184 8D:/Programes/intelFPGA_lite/Archeciture/Project/Register32Bit.vhd
+Z185 FD:/Programes/intelFPGA_lite/Archeciture/Project/Register32Bit.vhd
+l0
+L5 1
+VP<GHGobjG_G]APVeW0Q@m2
+!s100 iI>Z1ZO@I9cE2Lg75^`nN1
+R7
+32
+R138
+!i10b 1
+R101
+Z186 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/Register32Bit.vhd|
+Z187 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/Register32Bit.vhd|
+!i113 1
+R12
+R13
+Aa_reg_32
+R2
+R3
+DEx4 work 6 reg_32 0 22 P<GHGobjG_G]APVeW0Q@m2
+!i122 778
+l10
+R54
+VlADkZzQQ1[DA3BSf?Gjoe2
+!s100 5Q[Sg@2o@jgTmBbQQ<G]Y3
+R7
+32
+R138
+!i10b 1
+R101
+R186
+R187
+!i113 1
+R12
+R13
+Eregisterfile
+Z188 w1623492864
+R2
+R3
+!i122 785
+R4
+Z189 8D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterFile.vhd
+Z190 FD:/Programes/intelFPGA_lite/Archeciture/Project/RegisterFile.vhd
+l0
+L3 1
+VT^6PbB4X1@85f4BPMRZVA1
+!s100 G5M;aBe;[cPH;W=95K2>z3
+R7
+32
+R38
+!i10b 1
+R39
+Z191 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterFile.vhd|
+Z192 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/RegisterFile.vhd|
+!i113 1
+R12
+R13
+Aa_registerfile
+R2
+R3
+DEx4 work 12 registerfile 0 22 T^6PbB4X1@85f4BPMRZVA1
+!i122 785
+l49
+L18 132
+V1njQB8>O]0974Vjm9d1Rz1
+!s100 @K26=_bWA?Q7ck1PBf^?n0
+R7
+32
+R38
+!i10b 1
+R39
+R191
+R192
+!i113 1
+R12
+R13
+Estack_cu
+Z193 w1623674581
+R1
+R2
+R3
+!i122 798
+R4
+Z194 8D:\Programes\intelFPGA_lite\Archeciture\Project\SP.vhd
+Z195 FD:\Programes\intelFPGA_lite\Archeciture\Project\SP.vhd
+l0
+L5 1
+Vn2Ql_>7?oVzd6X8aOMFd90
+!s100 6a7Eamz`nLHE^4O9ekEKg1
+R7
+32
+Z196 !s110 1623685495
+!i10b 1
+R126
+Z197 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\SP.vhd|
+Z198 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\SP.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 8 stack_cu 0 22 n2Ql_>7?oVzd6X8aOMFd90
+!i122 798
+l25
+L16 29
+VQ<ca<NffSlVaYB@>oTRT]1
+!s100 ZS5:;D:F:lf006VS78JiE0
+R7
+32
+R196
+!i10b 1
+R126
+R197
+R198
+!i113 1
+R12
+R13
+Estackreg_32
+Z199 w1623613015
+R2
+R3
+!i122 799
+R4
+Z200 8D:\Programes\intelFPGA_lite\Archeciture\Project\StackRegister.vhd
+Z201 FD:\Programes\intelFPGA_lite\Archeciture\Project\StackRegister.vhd
+l0
+L5 1
+V9D?jBICFTlN;oBQRHJLjL3
+!s100 MN7Kmh<dDc:M@OgEH8KiK0
+R7
+32
+R196
+!i10b 1
+Z202 !s108 1623685495.000000
+Z203 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Programes\intelFPGA_lite\Archeciture\Project\StackRegister.vhd|
+Z204 !s107 D:\Programes\intelFPGA_lite\Archeciture\Project\StackRegister.vhd|
+!i113 1
+R12
+R13
+Aa_reg_32
+R2
+R3
+DEx4 work 11 stackreg_32 0 22 9D?jBICFTlN;oBQRHJLjL3
+!i122 799
+l10
+R54
+VbIieSAZl10@l0IOgi5]aP1
+!s100 WfnTh8oBTa=@@D>heEAH42
+R7
+32
+R196
+!i10b 1
+R202
+R203
+R204
+!i113 1
+R12
+R13
+Etristatebuffer
+Z205 w1623454707
+R2
+R3
+!i122 786
+R4
+Z206 8D:/Programes/intelFPGA_lite/Archeciture/Project/TristateBuffer.vhd
+Z207 FD:/Programes/intelFPGA_lite/Archeciture/Project/TristateBuffer.vhd
+l0
+L4 1
+V12<G2z=:?]cUVW[Ld]eL_0
+!s100 i9Re3Nna99@kcY:l^anDC3
+R7
+32
+Z208 !s110 1623685491
+!i10b 1
+Z209 !s108 1623685491.000000
+Z210 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programes/intelFPGA_lite/Archeciture/Project/TristateBuffer.vhd|
+Z211 !s107 D:/Programes/intelFPGA_lite/Archeciture/Project/TristateBuffer.vhd|
+!i113 1
+R12
+R13
+Aa_tristatebuffer
+R2
+R3
+DEx4 work 14 tristatebuffer 0 22 12<G2z=:?]cUVW[Ld]eL_0
+!i122 786
+l13
+L12 7
+Vbf99a[OeM84TERX]RNTX^2
+!s100 <SmDI`GFkLPJH4dgHWhH62
+R7
+32
+R208
+!i10b 1
+R209
+R210
+R211
+!i113 1
+R12
+R13
+Etwooperand
+Z212 w1623513741
+R1
+R2
+R3
+!i122 309
+R4
+R15
+R16
+l0
+L6 1
+VDHEG?PDHRbQDFmVPfGPXZ0
+!s100 4zz]k0Z60X`UB;477T:CE3
+R7
+32
+Z213 !s110 1623515335
+!i10b 1
+Z214 !s108 1623515335.000000
+R19
+R20
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 10 twooperand 0 22 DHEG?PDHRbQDFmVPfGPXZ0
+!i122 309
+l46
+L19 84
+VB22h4fam>ih=LNbOlbCX;3
+!s100 =Fo2AGS4WS[k;VcDDKbo11
+R7
+32
+R213
+!i10b 1
+R214
+R19
+R20
+!i113 1
+R12
+R13
